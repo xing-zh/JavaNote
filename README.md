@@ -5,7 +5,7 @@
 - java学习以及开发使用的笔记
   - 内容分类
     - Java笔记
-      - JavaSE
+      - [JavaSE](/1、Java笔记/)
         - SE基础
           1. java语言概述
           2. Java基础语法（上）：变量与运算符
