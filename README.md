@@ -10,10 +10,10 @@
           1. [java语言概述](/1、Java笔记/1、JavaSE/1、JavaSE基础/1、java语言概述.md)
           2. [Java基础语法(上):变量与运算符](1、Java笔记/1、JavaSE/1、JavaSE基础/2、java基础语法（上）：变量与运算符.md)
           3. [java基础语法(下):程序流控制](/1、Java笔记/1、JavaSE/1、JavaSE基础/3、Java基础语法（下）：程序流程控制.md)
-          4. [数组](1、Java笔记/1、JavaSE/1、JavaSE基础/数组.md)
-          5. [排序算法](/1、Java笔记/1、JavaSE/1、JavaSE基础/排序算法.md)
-          6. [正则表表达式](/1、Java笔记/1、JavaSE/1、JavaSE基础/正则表达式.md)
-          7. [面向对象编程上](/1、Java笔记/1、JavaSE/1、JavaSE基础/5、面向对象编程（上）.md)
+          4. [数组](/1、Java笔记/1、JavaSE/1、JavaSE基础/4、数组.md)
+          5. [排序算法](/1、Java笔记/1、JavaSE/1、JavaSE基础/5、排序算法.md)
+          6. [正则表表达式](/1、Java笔记/1、JavaSE/1、JavaSE基础/6、正则表达式.md)
+          7. [面向对象编程上](/1、Java笔记/1、JavaSE/1、JavaSE基础/7、面向对象编程（上）.md)
           8. 面向对象编程（中）
           9. 面向对象编程（下）
           10. [异常处理](/1、Java笔记/1、JavaSE/1、JavaSE基础/8、异常处理.md)
