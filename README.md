@@ -5,7 +5,7 @@
 - java学习以及开发使用的笔记
   - 内容分类
     - Java笔记
-      - [JavaSE](/1、Java笔记/)
+      - JavaSE
         - SE基础
           1. java语言概述
           2. Java基础语法（上）：变量与运算符
@@ -50,29 +50,32 @@
           2. 设计模式概述
           3. 代理模式
           4. 装饰者模式
-  - Maven
+    - Maven
     
-        2. lombok依赖
-        - Spring、SpringMVC、SpringBoot
-          1. Spring
-          2. Ioc容器
-          3. AOP
-          5. Spring的事务
-          6. AOP日志功能
-          7. SpringMVC
-          8. 使用
-          8. SM整合
-          9. 拦截器
-          10. SpringBoot
-          11. Thymeleaf
-          12. SpringBoot依赖
-          13. 配置类
-          14. 跨域处理CORS
-        - Shiro权限框架
-          1. shiro
-          2. 认证、加密、授权、缓存
-          3. Session
-          4. POI
+    1. Maven
+    
+    2. lombok依赖
+    - Spring、SpringMVC、SpringBoot
+      1. Spring
+      2. Ioc容器
+      3. AOP
+      5. Spring的事务
+      6. AOP日志功能
+      7. SpringMVC
+      8. 使用
+      8. SM整合
+      9. 拦截器
+      10. SpringBoot
+      11. Thymeleaf
+      12. SpringBoot依赖
+      13. 配置类
+      14. 跨域处理CORS
+    - Shiro权限框架
+      1. shiro
+      2. 认证、加密、授权、缓存
+      3. Session
+      4. POI
+    
       - JavaWeb
         - TomCat
         - Http协议
