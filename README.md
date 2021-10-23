@@ -1,0 +1,61 @@
+# 喜欢记得starred，定时更新！！！
+
+# 说明
+
+- java学习以及开发使用的笔记
+  - 内容分类
+    - Java笔记
+      - JavaSE
+        - SE基础
+        - SE高级
+        - 常用API
+        - Java新特性
+      - JavaEE
+        - Mybatis
+        - 设计模式
+        - Maven
+        - Spring、SpringMVC、SpringBoot
+        - Shiro权限框架
+      - JavaWeb
+        - TomCat
+        - Http协议
+        - Servlet
+        - JSP
+        - 会话技术
+        - 过滤器、监听器
+        - AJAX
+        - JSON
+      - 数据库（以MySQL为主）
+        - 概述
+        - DDL
+        - DML
+        - DQL
+        - DCL
+        - 视图
+        - 索引
+        - 事务、锁
+        - JDBC
+      - 微服务与分布式
+        - Nginx
+        - Redis
+        - SpringCloud
+        - JWT与SpringSession
+        - 分布式存储
+      - 数据结构
+      - JavaFx
+    - 前端笔记
+      - 语言
+        - html
+        - JavaScript
+        - CSS
+        - XML
+      - 框架
+        - Bootstrap
+        - JQuery
+      - Vue
+    - 代码块：平时保存的一些代码，直接粘贴就行
+      - Java代码
+      - 前端代码
+    - Git与GItHub
+    - Linux
+

@@ -1,0 +1,15 @@
+- Chinese (Simplified) Language Pack for Visual Studio Code：中文界面
+- auto rename tag
+- code runner
+- open in brower：在默认浏览器打开
+- live server：web服务器
+- vetur：写vue必备插件
+- Vue 2 Snippets：写vue必备插件
+- axios：axios补全插件
+- VueHelper vscode：vue，vue-router和vuex的代码提示
+- Path Intellisense：路径自动补全
+- Auto Close Tag：自动闭合标签
+- Beautify：格式化文件,保证正确的缩进
+- HTML CSS Support： CSS提示插件
+- JavaScript (ES6) code snippets：es6代码提示插件
+- VSCode Great Icons：给文件夹增加图标的插件  
