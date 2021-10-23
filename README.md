@@ -5,7 +5,7 @@
 - java学习以及开发使用的笔记
   - 内容分类
     - Java笔记
-      - JavaSE
+      - [JavaSE](/1、Java笔记/)
         - SE基础
         - SE高级
         - 常用API
