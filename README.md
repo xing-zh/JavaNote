@@ -153,7 +153,7 @@
         - table2excel
         - vue实现全选
     - Git与GItHub
-      - Git
+      - [Git](/4、Git与GitHub/1、Git.md)
       - IDEA使用Git
     - Linux
       - Linux安装
@@ -163,8 +163,6 @@
       - Linux常用命令
       
         
-
-
 - 批处理
   - 批处理
   - 常用命令
