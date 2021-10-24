@@ -88,91 +88,92 @@
         - [AJAX](/1、Java笔记/3、JavaWeb/9、AJAX.md)
         - [JSON](/1、Java笔记/3、JavaWeb/10、JSON.md)
       - 数据库（以MySQL为主）
-        - 概述
-        - DDL
-        - DML
-        - DQL
-        - DCL
-        - 视图
-        - 索引
-        - 事务、锁
-        - JDBC
+        - [概述](/1、Java笔记/2、数据库/1、数据库概述.md)
+        - [DDL](/1、Java笔记/2、数据库/2、DDL（数据定义语句）.md)
+        - [DML](/1、Java笔记/2、数据库/3、DML（数据操作语句）.md)
+        - [DQL](/1、Java笔记/2、数据库/4、DQL（数据查询语句）.md)
+        - [DCL](/1、Java笔记/2、数据库/5、DCL（数据控制语句）.md)
+        - [视图](/1、Java笔记/2、数据库/6、视图.md)
+        - [索引](/1、Java笔记/2、数据库/7、索引.md)
+        - [事务、锁](/1、Java笔记/2、数据库/8、事务、锁.md)
+        - [JDBC](/1、Java笔记/2、数据库/9、JDBC编程.md)
+        - [MySQL优化](/1、Java笔记/2、数据库/10、MySQL优化.md)
       - 微服务与分布式
         - Nginx
-          1. Nginx+Tomcat集群
-          2. 集群的实现，动静的分离
+          1. [Nginx+Tomcat集群](/1、Java笔记/5、微服务和分布式/1、Nginx/1、Nginx+Tomcat集群.md)
+          2. [集群的实现，动静的分离](/1、Java笔记/5、微服务和分布式/1、Nginx/2、集群的实现，动静分离.md)
         - Redis
-          1. Redis
-          2. Redis常用命令
-          3. Jedis
-          4. 持久化、事务
-          5. MybatisCache&Redis
-          6. SpringCache&Redis
+          1. [Redis](/1、Java笔记/5、微服务和分布式/2、Redis/1、Redis.md)
+          2. [Redis常用命令](/1、Java笔记/5、微服务和分布式/2、Redis/2、Redis常用命令.md)
+          3. [Jedis](/1、Java笔记/5、微服务和分布式/2、Redis/3、Jedis.md)
+          4. [持久化、事务](/1、Java笔记/5、微服务和分布式/2、Redis/4、持久化、事务.md)
+          5. [MybatisCache&Redis](/1、Java笔记/5、微服务和分布式/2、Redis/5、MybatisCache&Redis.md)
+          6. [SpringCache&Redis](/1、Java笔记/5、微服务和分布式/2、Redis/6、SpringCache&Redis.md)
         - SpringCloud
-          1. 微服务
-          2. SpringCloud
-          3. 服务注册中心
-          4. 微服务互相调用
-          5. 服务熔断降级
-          6. 服务网关
-          7. 服务配置中心
-        - JWT与SpringSession
-        - 分布式存储
+          1. [微服务](/1、Java笔记/5、微服务和分布式/3、SpringCloud/1、微服务.md)
+          2. [SpringCloud](/1、Java笔记/5、微服务和分布式/3、SpringCloud/2、SpringCloud.md)
+          3. [服务注册中心](/1、Java笔记/5、微服务和分布式/3、SpringCloud/3、服务注册中心.md)
+          4. [微服务互相调用](/1、Java笔记/5、微服务和分布式/3、SpringCloud/4、微服务互相调用.md)
+          5. [服务熔断降级](/1、Java笔记/5、微服务和分布式/3、SpringCloud/5、服务熔断降级.md)
+          6. [服务网关](/1、Java笔记/5、微服务和分布式/3、SpringCloud/6、服务网关.md)
+          7. [服务配置中心](/1、Java笔记/5、微服务和分布式/3、SpringCloud/7、服务配置中心.md)
+        - [JWT与SpringSession](/1、Java笔记/5、微服务和分布式/4、JWT与SpringSession.md)
+        - [分布式存储](/1、Java笔记/5、微服务和分布式/5、分布式存储.md)
       - JavaFx
-      - JVM与GC
+      - [JVM与GC](/1、Java笔记/7、JVM/1、JVM与GC.md)
       - 前端笔记
         - 语言
-          - html
-          - JavaScript
-          - CSS
-        - XML
+          - [html](/2、前端笔记/1、语言/1、HTML.md)
+          - [JavaScript](/2、前端笔记/1、语言/3、JavaScript.md)
+          - [CSS](/2、前端笔记/1、语言/2、CSS.md)
+          - [XML](/2、前端笔记/1、语言/4、XML.md)
       - 框架
-        - Bootstrap
-        - JQuery
+        - [Bootstrap](/2、前端笔记/2、框架/1、Bootstrap.md)
+        - [JQuery](/2、前端笔记/2、框架/2、JQuery.md)
       - Vue
-        - Vue
-        - axios
-        - 组件
-        - 模块化开发
-        - VueCLI
-        - VSCode插件
+        - [Vue](/2、前端笔记/3、Vue/1、Vue.md)
+        - [axios](/2、前端笔记/3、Vue/2、axios.md)
+        - [组件](/2、前端笔记/3、Vue/3、组件.md)
+        - [模块化开发](/2、前端笔记/3、Vue/4、模块化开发.md)
+        - [VueCLI](/2、前端笔记/3、Vue/5、VueCLI.md)
+        - [VSCode插件](/2、前端笔记/3、Vue/6、VSCode插件.md)
       - 代码块：平时保存的一些代码，直接粘贴就行
       - Java代码
-        - 查杀端口
-        - 递归解决斐波那契数列
-        - 递归删除文件夹内所有文件
-        - 动态生成验证码
-        - 六个不重复随机数组
-        - 十进制整数转换为二进制
-        - 序列化即反序列化
-        - IO复制文件
-        - jsp实现分页功能
-        - MySQL生成随机名姓名
+        - [查杀端口](/3、代码块/1、Java代码/查杀端口.md)
+        - [递归解决斐波那契数列](/3、代码块/1、Java代码/递归解决斐波那契数列.md)
+        - [递归删除文件夹内所有文件](/3、代码块/1、Java代码/递归删除文件夹内所有文件.md)
+        - [动态生成验证码](/3、代码块/1、Java代码/动态生成验证码.md)
+        - [六个不重复随机数组](/3、代码块/1、Java代码/六个不重复随机数数组.md)
+        - [十进制整数转换为二进制](/3、代码块/1、Java代码/十进制整数转化为二进制.md)
+        - [序列化即反序列化](/3、代码块/1、Java代码/序列化及反序列化.md)
+        - [IO复制文件](/3、代码块/1、Java代码/IO复制文件.md)
+        - [jsp实现分页功能](/3、代码块/1、Java代码/jsp实现分页功能.md)
+        - [MySQL生成随机名姓名](/3、代码块/1、Java代码/MySQL生成随机姓名.md)
       - 前端代码
-        - 图片文件上传预览
-        - JS获取地址栏参数
-        - JS中String和Date互转
-        - table2excel
-        - vue实现全选
+        - [图片文件上传预览](/3、代码块/2、前端代码/图片文件上传预览.md)
+        - [JS获取地址栏参数](/3、代码块/2、前端代码/JS获取地址栏参数.md)
+        - [JS中String和Date互转](/3、代码块/2、前端代码/JS中String和Date互转.md)
+        - [table2excel](/3、代码块/2、前端代码/table2excel.md)
+        - [vue实现全选](/3、代码块/2、前端代码/vue实现全选.md)
     - Git与GItHub
       - [Git](/4、Git与GitHub/1、Git.md)
-      - IDEA使用Git
+      - [IDEA使用Git](/4、Git与GitHub/2、Idea使用git.md)
     - Linux
-      - Linux安装
+      - [Linux安装](/5、Linux/1、安装.md)
       
-      - Linux
+      - [Linux](/5、Linux/2、Linux.md)
       
-      - Linux常用命令
+      - [Linux常用命令](/5、Linux/3、Linux常用命令.md)
       
   
 - 批处理
-  - 批处理
-  - 常用命令
+  - [批处理](/6、批处理脚本/1、批处理.md)
+  - [常用命令](/6、批处理脚本/2、常用命令.md)
 
 - 面试题
-  - 并发编程
-  - 集合
-  - 面试宝典
-  - 设计模式
-  - 数据库
-  - Tomcat
+  - [并发编程](/7、面试题/并发编程.md)
+  - [集合](/7、面试题/集合.md)
+  - [面试宝典](/7、面试题/面试宝典.md)
+  - [设计模式](/7、面试题/设计模式.md)
+  - [数据库](/7、面试题/数据库.md)
+  - [Tomcat](/7、面试题/Tomcat.md)
