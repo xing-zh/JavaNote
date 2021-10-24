@@ -8,7 +8,7 @@
       - JavaSE
         - SE基础
           1. [java语言概述](/1、Java笔记/1、JavaSE/1、JavaSE基础/1、java语言概述.md)
-          2. [Java基础语法(上):变量与运算符](1、Java笔记/1、JavaSE/1、JavaSE基础/2、java基础语法（上）：变量与运算符.md)
+          2. [Java基础语法(上):变量与运算符](/1、Java笔记/1、JavaSE/1、JavaSE基础/2、java基础语法（上）：变量与运算符.md)
           3. [java基础语法(下):程序流控制](/1、Java笔记/1、JavaSE/1、JavaSE基础/3、Java基础语法（下）：程序流程控制.md)
           4. [数组](/1、Java笔记/1、JavaSE/1、JavaSE基础/4、数组.md)
           5. [排序算法](/1、Java笔记/1、JavaSE/1、JavaSE基础/4.1、排序算法.md)
