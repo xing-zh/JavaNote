@@ -1,6 +1,5 @@
-# 喜欢记得starred，定时更新！！！
+# zzx的javaNote
 
-# 说明
 
 - java学习以及开发使用的笔记
   - 内容分类
