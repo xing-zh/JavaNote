@@ -13,9 +13,9 @@
           4. [数组](/1、Java笔记/1、JavaSE/1、JavaSE基础/4、数组.md)
           5. [排序算法](/1、Java笔记/1、JavaSE/1、JavaSE基础/4.1、排序算法.md)
           6. [正则表表达式](/1、Java笔记/1、JavaSE/1、JavaSE基础/4.2正则表达式.md)
-          7. [面向对象编程上](/1、Java笔记/1、JavaSE/1、JavaSE基础/5、面向对象编程（上）.md)
-          8. [面向对象编程（中）](/1、Java笔记/1、JavaSE/1、JavaSE基础/6、面向对象编程（中）.md)
-          9. [面向对象编程（下）](/1、Java笔记/1、JavaSE/1、JavaSE基础/7、面向对象编程（下）.md)
+          7. [面向对象编程上](/1、Java笔记/1、JavaSE/1、JavaSE基础/5、面向对象编程上.md)
+          8. [面向对象编程（中）](/1、Java笔记/1、JavaSE/1、JavaSE基础/6、面向对象编程中.md)
+          9. [面向对象编程（下）](/1、Java笔记/1、JavaSE/1、JavaSE基础/7、面向对象编程下.md)
           10. [异常处理](/1、Java笔记/1、JavaSE/1、JavaSE基础/8、异常处理.md)
           11. [单元测试](/1、Java笔记/1、JavaSE/1、JavaSE基础/9、单元测试.md)
         - SE高级
