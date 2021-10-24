@@ -29,14 +29,14 @@
           8. [注解](/1、Java笔记/1、JavaSE/2、JavaSE高级/8、注解.md)
           9. [类加载器](/1、Java笔记/1、JavaSE/2、JavaSE高级/9、类加载器.md)
         - 常用API
-          1. 时间相关类
-          2. Object
-          3. 包装类
-          4. 字符串类
-          5. Math类
-          6. 比较器
-          7. UUID
-          8. 定时器
+          1. [时间相关类](/1、Java笔记/1、JavaSE/3、常用API/1、时间相关类.md)
+          2. [Object](/1、Java笔记/1、JavaSE/3、常用API/2、Object.md)
+          3. [包装类](/1、Java笔记/1、JavaSE/3、常用API/3、包装类.md)
+          4. [字符串类](/1、Java笔记/1、JavaSE/3、常用API/4、字符串类.md)
+          5. [Math类](/1、Java笔记/1、JavaSE/3、常用API/5、Math.md)
+          6. [比较器](/1、Java笔记/1、JavaSE/3、常用API/6、比较器.md)
+          7. [UUID](/1、Java笔记/1、JavaSE/3、常用API/7、UUID.md)
+          8. [定时器](/1、Java笔记/1、JavaSE/3、常用API/8、定时器.md)
         
       - JavaEE
         - Mybatis
